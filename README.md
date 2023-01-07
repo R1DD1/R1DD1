@@ -15,7 +15,7 @@ I have been studying this language for more than 1 years. Kotlin programming ski
 <h2>My Projects</h2>
 <h4><a href="https://github.com/R1DD1/moteloff_api">moteloff_api</a> - API is a convenient item builder and a convenient NBT tag getter</h4> 
 <h4><a href="https://github.com/R1DD1/realistic_explosion">realistic_explosion</a> - Realistic TNT explosion</h4> 
-<h4><a href="https://github.com/R1DD1/battle_personalization">battle_personalization</a> - Customization of PVP (messages at death, murder, arrow trail, etc.)</h4> 
+<h4><a href="https://github.com/R1DD1/battle_personalization">battle_personalization</a> - Customization of PVP (messages at death, kill messages, arrow trail, etc.)</h4> 
 
 
 <h2>Work experience</h2>
