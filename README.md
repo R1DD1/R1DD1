@@ -13,6 +13,7 @@ I have been studying this language for more than 2 years. I have excellent knowl
 I have been studying this language for more than 1 years. Kotlin programming skills are at the same level as Java, their similarity helped me quickly get used to this language and perform various projects (PC applications, creating plugins on the Bukkit API)
 
 <h2>My Projects</h2>
+<h4><a href="https://github.com/R1DD1/tables">tables</a> - WEB tables with computational functions.</h4> 
 <h4><a href="https://github.com/R1DD1/moteloff_api">moteloff_api</a> - API is a convenient item builder and a convenient NBT tag getter</h4> 
 <h4><a href="https://github.com/R1DD1/realistic_explosion">realistic_explosion</a> - Realistic TNT explosion</h4> 
 <h4><a href="https://github.com/R1DD1/battle_personalization">battle_personalization</a> - Customization of PVP (messages at death, kill messages, arrow trail, etc.)</h4> 
