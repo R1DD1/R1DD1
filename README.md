@@ -7,20 +7,43 @@ Here are some ideas to get you started:
 -->
 
 <h2>Java</h2>
-I have been studying this language for more than 2 years. I have excellent knowledge of Bukkit, a good understanding of packages and nms, OOP and its principles and patterns. 
+I have been studying this language for more than 2 years.
 
 <h2>Kotlin</h2>
-I have been studying this language for more than 1 years. Kotlin programming skills are at the same level as Java, their similarity helped me quickly get used to this language and perform various projects (PC applications, creating plugins on the Bukkit API)
+I have been studying this language for more than 1 years. Kotlin programming skills are at the same level as Java, their similarity helped me quickly get used to this language and perform various projects.
 
-<h2>My Projects</h2>
-<h4><a href="https://github.com/R1DD1/tables">tables</a> - WEB tables with computational functions.</h4> 
-<h4><a href="https://github.com/R1DD1/moteloff_api">moteloff_api</a> - API is a convenient item builder and a convenient NBT tag getter</h4> 
-<h4><a href="https://github.com/R1DD1/realistic_explosion">realistic_explosion</a> - Realistic TNT explosion</h4> 
-<h4><a href="https://github.com/R1DD1/battle_personalization">battle_personalization</a> - Customization of PVP (messages at death, kill messages, arrow trail, etc.)</h4> 
+<h2>My Skills</h2>
+<ul>
+  <li>
+    <h3>Spring Framework</h3>
+    <ul>
+      <li><a href="https://github.com/R1DD1/blog">blog</a>, was used: spring framework, postgresql, junit containers, docker, github actions</li>
+      <li><a href="https://github.com/R1DD1/spring_security_app">spring_security_app</a>, was used: spring framework, spring security, postgresql</li>
+      <li><a href="https://github.com/R1DD1/tables">tables</a>, was used: spring framework, postgresql, js</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Bukkit API</h3>
+    <ul>
+      <li><a href="https://github.com/R1DD1/mates">mates</a>, was used: bukkit api, mysqlite</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Linux</h3>
+  </li>
+  <li>
+    <h3>Docker</h3>
+  </li>
+  <li>
+    <h3>CI/CD</h3>
+  </li>
+  <li>
+    <h3>GCP</h3>
+  </li>
+</ul>
 
 
-<h2>Work experience</h2>
-<h4><a href="https://cristalix.gg">Cristalix</a> - My task was to support already written modes and support various APIs, create mod UI interfaces, develop some modes.</h4> 
-<h4><a href="https://framedev.ru/">FrameDev</a> - A development studio in the field of Minecraft, performed various custom tasks, plugin development, implementation of plugin support for another version, server assembly.</h4> 
+
+
 
 
