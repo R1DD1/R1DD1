@@ -20,6 +20,7 @@ I have been studying this language for more than 1 years. Kotlin programming ski
       <li><a href="https://github.com/R1DD1/blog">blog</a>, was used: spring framework, postgresql, junit containers, docker, github actions</li>
       <li><a href="https://github.com/R1DD1/spring_security_app">spring_security_app</a>, was used: spring framework, spring security, postgresql</li>
       <li><a href="https://github.com/R1DD1/tables">tables</a>, was used: spring framework, postgresql, js</li>
+      <li><a href="https://github.com/R1DD1/microservices">microserices</a>, was used: spring framework, spring cloud, spring cloud config, hateoas, micorservice arhcitecture, docker</li>
     </ul>
   </li>
   <li>
