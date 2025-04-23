@@ -5,13 +5,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-<h2>Java</h2>
-I have been studying this language for more than 2 years.
-
-<h2>Kotlin</h2>
-I have been studying this language for more than 1 years. Kotlin programming skills are at the same level as Java, their similarity helped me quickly get used to this language and perform various projects.
-
 <h2>My Skills</h2>
 <ul>
   <li>
