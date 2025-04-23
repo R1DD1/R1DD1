@@ -17,6 +17,7 @@
   </li>
   <li>
     <h3>Kafka</h3>
+    Confluent (avro)
   </li>
   <li>
     <h3>Docker</h3>
