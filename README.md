@@ -1,10 +1,3 @@
-<!--
-**R1DD1/R1DD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 <h2>My Skills</h2>
 <ul>
   <li>
@@ -23,21 +16,31 @@ Here are some ideas to get you started:
     </ul>
   </li>
   <li>
-    <h3>Linux</h3>
+    <h3>Kafka</h3>
   </li>
   <li>
     <h3>Docker</h3>
   </li>
   <li>
     <h3>CI/CD</h3>
+    Gitlab CI/CD, Github Actions
   </li>
-  <li>
-    <h3>GCP</h3>
+  <li> 
+    <h3>Databases</h3>
+    PostgeSql, MongoDB, Redis (liquibase for migration)
   </li>
 </ul>
 
-
-
-
-
-
+<h2>Work Experience</h2>
+<ul>
+  <li>
+    <h3>Cristalix</h3>
+    Java/Kotlin Developer — working on large-scale Minecraft server infrastructure.  
+    Responsibilities included plugin development, backend services, and integration of in-game mechanics with external APIs.
+  </li>
+  <li>
+    <h3>Fixorix</h3>
+    Java Developer — developed backend micro-services using Java and Spring.  
+    Focused on improving fault tolerance and scalability.
+  </li>
+</ul>
