@@ -36,7 +36,7 @@
 <ul>
   <li>
     <h3>Cristalix</h3>
-    Java/Kotlin Developer — working on large-scale Minecraft server infrastructure.  
+    Java/Kotlin Developer — working on large-scale gaming marketplace.  
     Responsibilities included plugin development, backend services, and integration of in-game mechanics with external APIs.
   </li>
   <li>
